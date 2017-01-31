@@ -17,9 +17,9 @@ The Brightness plugin can be used in your [Corona](https://coronalabs.com/produc
 
 ##### [brightness.init()](init.md)
 
-##### [brightness.maxBright()](get.md)
+##### [brightness.getBright()](get.md)
 
-##### [brightness.prevBright()](set.md)
+##### [brightness.setBright()](set.md)
 
 
 
@@ -59,7 +59,7 @@ If you have activated this plugin, you can download this plugin from the corresp
 
 ### Support
 
-More support is available from the PUBLISHER_NAME team:
+More support is available from the KEETIZ team:
 
 * [E-mail](mailto:bancel@keetiz.com)
 * [Plugin Publisher](https://www.keetiz.com)
