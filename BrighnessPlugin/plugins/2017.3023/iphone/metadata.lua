@@ -13,7 +13,6 @@ local metadata =
     },
     coronaManifest = {
         dependencies = {
-            ["shared.memoryBitmap"] = "com.coronalabs",
         },
     },
 }
